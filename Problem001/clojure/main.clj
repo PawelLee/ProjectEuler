@@ -1,0 +1,1 @@
+(reduce +(for [x (take 1000(range)) :when (or (= 0 (mod x 3)) (= 0 (mod x 5)))] x))
