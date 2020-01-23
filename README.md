@@ -1,6 +1,6 @@
 # ProjectEuler
 
-In this repository I shall be storing my solutions to Project Euler problems.
+In this repository I shall be storing my solutions to [Project Euler](https://projecteuler.net) problems.
 
 The Progress so far:
 
