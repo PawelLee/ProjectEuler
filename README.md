@@ -12,4 +12,6 @@ The Progress so far:
 - Problem 12 – Python
 - Problem 14 – Python
 - Problem 17 – Python
+- Problem 18 – Python
 - Problem 21 – Python
+- Problem 67 – Python
