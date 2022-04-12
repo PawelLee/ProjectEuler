@@ -2,7 +2,7 @@
 
 In this repository I shall be storing my solutions to [Project Euler](https://projecteuler.net) problems.
 
-![Project Euler Signature](https://projecteuler.net/profile/Pav.png)
+![Project Euler Signature](https://projecteuler.net/profile/Pav.png?)
 
 The Progress so far:
 
